@@ -1,0 +1,59 @@
+.teacher-sidebar{
+    background: #2F323A;
+    min-height: 100vh;
+}
+.profile-container{
+    text-align: center;
+}
+.profile-container>img{
+    width: 150px;
+}
+.profile-container>h4,span{
+    color: #CFCDCC;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link-container{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.link-container>div{
+    padding: 5px;
+}
+.link-container>div>svg{
+    color: #fff;
+    font-size: 18px;
+}
+.link-container>div>a{
+    font-size: 16px;
+    padding-left: 10px;
+}
+.teacher-container {
+    display: flex;
+    justify-content: space-around;
+}
+.add-question{
+    background: #04868F;
+    width: 400px;
+    padding: 40px 0;
+    margin-top: 40px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+.add-question>svg,.view-question>svg{
+    color: #fff;
+    font-size: 40px;
+    font-weight: 900;
+    margin-right: 10px;
+}
+.view-question{
+    background: #4C51BF;
+    width: 400px;
+    padding: 40px 0;
+    margin-top: 40px;
+    border-radius: 5px;
+    text-align: center;
+    cursor: pointer;
+}

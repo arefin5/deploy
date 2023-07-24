@@ -1,0 +1,32 @@
+.student-sidebar{
+    background: #2F323A;
+    min-height: 100vh;
+   
+}
+.student-profile-container{
+    text-align: center;
+}
+.student-profile-container>img{
+    width: 150px;
+}
+.student-profile-container>h4,span{
+    color: #CFCDCC;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.student-link-container{
+    padding-left: 40px;
+    padding-top: 40px;
+}
+.student-link-container>div{
+    padding: 5px;
+}
+.student-link-container>div>svg{
+    color: #fff;
+    font-size: 18px;
+}
+.student-link-container>div>a{
+    font-size: 16px;
+    padding-left: 10px;
+}

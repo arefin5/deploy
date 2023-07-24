@@ -1,0 +1,34 @@
+.loginbg-box{
+    position: relative;
+    padding-left: 0!important;
+}
+.loginform {
+    display: flex;
+    width: 70%;
+    height: 600px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+.login_text{
+    background: #0A192F;
+    clip-path: circle(170% at -60% -40%);
+    display: flex;
+    width: 100%;
+    height: 600px;
+    flex-direction: column;
+    padding-top: 100px;
+}
+.login_text>h2,p{
+    color: #ffffff;
+    text-align: center;
+}
+.loginimgBox {
+    position: absolute;
+    top: 46%;
+    right: 19%;
+}
+.loginimgBox>img{
+    width:400px
+}

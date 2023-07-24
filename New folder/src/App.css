@@ -1,0 +1,19 @@
+.unselectable {
+   -webkit-user-select: none;
+   -webkit-touch-callout: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+   user-select: none;
+ }
+
+
+.log-out{
+   padding-top:10px !important ;
+}
+.active{
+   display: hiden;
+}
+.vid {
+   margin-top: -172px !important;
+   text-align: center !important;
+}
